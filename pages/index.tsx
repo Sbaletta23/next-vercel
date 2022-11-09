@@ -10,7 +10,7 @@ export default function Home() {
         </h1>
 
         <p className={"description"}>
-          Get started by editing{' '}
+          Get started by editing.{' '}
           <code className={"code"}>pages/index.tsx</code>
         </p>
       </MainLayouts>
